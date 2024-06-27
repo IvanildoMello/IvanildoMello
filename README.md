@@ -1,4 +1,4 @@
-Hi, I'm @IvanildoMello
+Hi, I'm @IvanildoMelo
 👀 I'm interested in technology
 🌱 I'm currently majoring in Systems Analysis and Development and learning HTML, CSS and JS
 💞️ I'm developing a personal website.
